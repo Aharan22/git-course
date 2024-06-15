@@ -1,4 +1,5 @@
 Get the user data...
 Process the data 
 
-create an avatar for user
+create an avatar for usergit status
+this should be on feature1
